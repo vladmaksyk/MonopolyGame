@@ -4,6 +4,8 @@ public class Board implements BoardAPI {
 	// Board data from http://monopoly.wikia.com/wiki/Monopoly
 	// Note, a property is a site, utility or station
 	
+	//Lottery
+	
 	public static final int NUM_SQUARES = 40;
 	
 	public static final int POS_GO = 0;
